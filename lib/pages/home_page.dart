@@ -66,7 +66,7 @@ class _HomePageState extends State<HomePage> {
           },
         ),
       ),
-      body: Center(),
+      body: const Center(),
       drawer: Drawer(
         child: ListView(
           padding: EdgeInsets.zero,
